@@ -1,6 +1,6 @@
 planet1="Closest of Sun"
 print(planet1)
-"""
+
 print(planet1[0])
 print(planet1[1])
 print(planet1[2])
@@ -40,7 +40,7 @@ print(devops[2:5][0])
 
 print(devops[2:5][0][5:11])
 print(devops[2:5][0][5:11][-1])
-"""
+
 
 # Dictionary Example
 Skills = {"DevOps": ("AWS", "Jenkins", "Python", "Ansible"), "Development": ["Java", "NodeJS", ".net"]}

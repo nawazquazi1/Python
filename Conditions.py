@@ -1,5 +1,5 @@
 # IF Condition
-"""
+
 x = 21
 
 if x < 30:
@@ -27,7 +27,6 @@ else:
     print("Inside else block")
     print("x is greater than 30")
 
-"""
 # If/Elif/Else Condition
 x = 40
 

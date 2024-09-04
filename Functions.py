@@ -1,5 +1,5 @@
 # Defining Function
-"""
+
 def add(arg1, arg2):
     total = arg1 + arg2
     return total
@@ -15,7 +15,6 @@ def adder(arg1, arg2):
 
 adder(10,50)
 print(adder(10, 50))
-"""
 
 
 def summ(arg):

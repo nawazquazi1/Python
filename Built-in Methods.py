@@ -1,5 +1,4 @@
 # String Build in Methods/Functions
-"""
 message = "corona vaccine is ready to use, most of them are more than 90% effective."
 print(message)
 print(message.capitalize())
@@ -54,4 +53,4 @@ print(cntr_emp1.values())
 cntr_emp1.clear()
 print(cntr_emp1)
 cntr_emp1.
-"""
+
